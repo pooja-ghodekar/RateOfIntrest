@@ -4,6 +4,7 @@ public class Result {
     public static void main(String[] args) {
         CalculateIntrest c=new CalculateIntrest();
         Scanner in=new Scanner(System.in);
+        System.out.println("change...");
         int choice;
             do {
 
